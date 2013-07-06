@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyScript.cs">
+    <Files>
+      <File FileName="../LearnWithFun/Assets/AlphabetOrderScript.cs" Line="66" Column="57" />
+      <File FileName="Assets/Plugins/BitYota.cs" Line="49" Column="2" />
+      <File FileName="Assets/MyScript.cs" Line="28" Column="3" />
+      <File FileName="../Downloads/Fast Speed &amp; Furious Racing Game/Assets/Plugins/ChartBoost/ChartBoostBinding.cs" Line="68" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="MyScript.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
